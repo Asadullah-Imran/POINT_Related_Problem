@@ -57,11 +57,7 @@ class Point{
         int x=min(x1,x2);
         int y=min(y1,y2);
         int z=min(x,y);
-        if(z>=r){
-            return true;
-        }else{
-            return false;
-        }
+        return z >= r;
 
     }
 }
