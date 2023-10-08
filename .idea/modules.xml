@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FindCirclesIntersect/FindCirclesIntersect.iml" filepath="$PROJECT_DIR$/FindCirclesIntersect/FindCirclesIntersect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POINT_Related_Problem.iml" filepath="$PROJECT_DIR$/.idea/POINT_Related_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointPosition-according to circle/PointPosition-according to circle.iml" filepath="$PROJECT_DIR$/PointPosition-according to circle/PointPosition-according to circle.iml" />
+    </modules>
+  </component>
+</project>
